@@ -2,5 +2,5 @@ Some time ago I had an idea for self-hosted RSS service á la Google Reader, but
 
 Nowadays we already have solutions like [CommaFeed](https://github.com/Athou/commafeed), [FreshRSS](https://freshrss.org) or [Miniflux](https://miniflux.app), which may not be exactly how I'd like it, but are close enough for now.
 
-This repository serves as a kind of TODO for me, would I in the future want to come up with my own solution.  
-Ergo: project postponed infefinitely.
+This repository serves as a kind of TODO for me, would I in the future want to come up with my own solution.
+Ergo: project postponed indefinitely.
